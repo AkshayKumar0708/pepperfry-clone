@@ -1,6 +1,6 @@
 # nosy-tree-9718-
 
-Hello, I am Akshay kumar In this blog, I am writing about our project cloaning of Pepperfry.com, which is a part of our construct week at Masai School.
+Hello, I am Akshay kumar In this blog, I am writing about our project cloaning of EASYSHOP.COM, which is a part of our construct week at Masai School.
 
 ## About Pepperfry
 Pepperfry is an Indian online marketplace for furniture and home décor.
